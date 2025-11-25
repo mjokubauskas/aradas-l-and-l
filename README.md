@@ -1,7 +1,3 @@
-GB81BARC20127530651907
-
-Alexandr Dernovoy
-
 # Aradas L&L Fields and Variables
 
 
