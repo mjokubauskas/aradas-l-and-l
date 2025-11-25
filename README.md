@@ -35,7 +35,9 @@ SELECT [ReferenciaBase] -- Reference Base of Material
 
 
 
-## QID Texts
+## QID Texts 
+
+Check Numeric options
 
 module allow to assign base material and/or material `DesAuto`  and P-Options values `DesAuto` to description blocks. those description blocks defines by `DesAutoOrden` . Each bloc has `DesAutoOrden` start and end indexes. Each block define and set L&L field for printouts. That allow more flexible agreagate sales document item descriptions. Distinct each group in pribntouts 
 
