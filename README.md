@@ -2,7 +2,7 @@
 
 
 
-## PDG Price Document Groups 
+## PDG Price Document Groups (Probbaly not used, Antanas will doublecheck)
 
 Aradas use very less  PDG features. They has single price document group `Packing`. With 6 materials assigned to it. Aradas didint define and distinct prices of `SEP`, `END` or others. PDG used just form `MAT` kind sales document items. And use just few fields for L&L: `PDG.TranslateDescription' 'PDG.TranslateColor','PDG.Length','PDG.Width','PDG.Quantity',
 
