@@ -205,18 +205,18 @@ Special development which add `SalesDocItem` as last position in `SalesDoc`. Cal
 ### Calculation 
 - User presettings choice 
 
-    ![Presettings ](../aradas-l-and-l/Images/presettings.png)
+    ![Presettings](https://github.com/mjokubauskas/aradas-l-and-l/blob/uni/images/presettings.png)
 
 - Added Position at sales document 
   
-   ![Position](../aradas-l-and-l/Images/ldm-position.png)
+   ![Position](https://github.com/mjokubauskas/aradas-l-and-l/blob/uni/images/ldm-position.png)
 
 > Calculation executed once per sales document on event `SalesDoc_BeforeSave`. **Not** execute after `SalesDocItem` are added. Its last step before user printing quote or order printout. 
 
 ### Validation 
 
 Validate sales document and output errors at to `Validation Messages`
-![Validation](../aradas-l-and-l/Images/validation.png)
+  ![Validation](https://github.com/mjokubauskas/aradas-l-and-l/blob/uni/images/validation.png)
 > Validation executed per sales document on event `SalesDoc_Validate`. **Not** execute after `SalesDocItem` 
 added. Its last step before user printing quote or order printout. 
   
