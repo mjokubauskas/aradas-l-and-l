@@ -1,3 +1,15 @@
+- [Aradas L&L Fields and Variables](#aradas-l-l-fields-and-variables)
+  - [Test case](#test-case)
+  - [QID Texts](#qid-texts)
+  - [Varaiables using custom user SQL Queries](#varaiables-using-custom-user-sql-queries)
+  - [Other Fields & Variables](#other-fields-variables)
+  - [Model Variables](#model-variables)
+  - [PDG Price Document Groups](#pdg-price-document-groups)
+- [Other related topics](#other-related-topics)
+  - [Transportation](#transportation)
+    - [Calculation](#calculation)
+    - [Validation](#validation)
+  - [Profiles Optimization Remnants](#profiles-optimization-remnants)
 
 
 # Aradas L&L Fields and Variables
